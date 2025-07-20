@@ -4,6 +4,11 @@ body {
   background-size: cover;
 }
 
+#music {
+  /* background-color: beige; */
+  background-image: url("pexels-asphotograpy-97888.jpg");
+  background-size: auto;
+}
 /* #div-earlylife {
   padding-top: 50px;
   padding-right: 850px;
